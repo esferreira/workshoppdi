@@ -1,0 +1,10 @@
+dialog.default.folder = C:\\docker\\workshoppdi\\dbeaver-portable\\data
+driver.selector.orderBy = score
+eclipse.preferences.version = 1
+logs.debug.location = C:\\docker\\workshoppdi\\dbeaver-portable\\data\\.metadata\\logs\\dbeaver-debug.log
+qm.logDirectory = C:\\docker\\workshoppdi\\dbeaver-portable\\data\\.metadata\\logs
+sample.database.canceled = true
+tipOfTheDayInitializer.notFirstRun = true
+ui.auto.update.check = false
+ui.drivers.home = C:\\docker\\workshoppdi\\dbeaver-portable\\data\\.metadata\\drivers
+ui.show.tip.of.the.day.on.startup = true

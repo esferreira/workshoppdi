@@ -1,0 +1,11 @@
+{
+  "id": "dbeaver-portable",
+  "guid": "{E541EA04-DF64-4B2C-88E4-4CD7C3CEA3E3}",
+  "name": "DBeaver Portable",
+  "version": "23.3.0",
+  "release": "47",
+  "date": "2023/12/24 15:32:40",
+  "publisher": "CrazyMax",
+  "url": "https://github.com/portapps/dbeaver-portable",
+  "portapps_version": "3.9.0"
+}

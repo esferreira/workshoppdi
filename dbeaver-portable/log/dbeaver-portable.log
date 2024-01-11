@@ -1,0 +1,400 @@
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:118 > --------
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:119 > Operating System: Windows 10.0.22621
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:120 > Starting DBeaver 23.3.0-47 (portapps 3.9.0)...
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:121 > Release date: 2023/12/24 15:32:40
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/dbeaver-portable)
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:123 > Root path: C:\portapps\dbeaver-portable
+Wed, 10 Jan 2024 21:39:22 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+
+Wed, 10 Jan 2024 21:39:23 -03 INF D:/a/dbeaver-portable/dbeaver-portable/main.go:51 > Creating default props...
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:168 > Process: C:\portapps\dbeaver-portable\app\dbeaver.exe
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:169 > Args (config file): 
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:170 > Args (cmd line): 
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:171 > Args (hardcoded): -data C:\portapps\dbeaver-portable\data -vm C:\portapps\dbeaver-portable\app\jre\bin\javaw.exe
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:172 > Working dir: C:\portapps\dbeaver-portable\app
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:173 > App path: C:\portapps\dbeaver-portable\app
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:174 > Data path: C:\portapps\dbeaver-portable\data
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:175 > Previous path: 
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:181 > Launching DBeaver
+Wed, 10 Jan 2024 21:39:23 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:191 > Exec C:\portapps\dbeaver-portable\app\dbeaver.exe -data C:\portapps\dbeaver-portable\data -vm C:\portapps\dbeaver-portable\app\jre\bin\javaw.exe
+Warning: NLS unused message: WorkbenchPreference_showMultipleEditorTabsButton in: org.eclipse.ui.internal.messages
+Warning: NLS unused message: Workbench_zoomChangedRestart in: org.eclipse.ui.internal.messages
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.0.v20230630-1303]
+> Start DBeaver Application Standalone [org.jkiss.dbeaver.ui.app.standalone 23.3.0.202312122044]
+> Start Aplicativo IDE Eclipse [org.eclipse.ui.ide.application 1.5.100.v20230821-1342]
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.120.202312122044]
+> Start Expression Language [org.eclipse.core.expressions 3.9.100.v20230726-0617]
+> Start DBeaver Usage Statistics [org.jkiss.dbeaver.ui.statistics 1.0.16.202312122044]
+> Start DBeaver Desktop Application Core [org.jkiss.dbeaver.core 23.3.0.202312122044]
+2024-01-10 21:39:35.479 - DBeaver 23.3.0.202312122044 is starting
+2024-01-10 21:39:35.479 - OS: Windows 11 10.0 (amd64)
+2024-01-10 21:39:35.479 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-01-10 21:39:35.479 - Install path: 'C:\portapps\dbeaver-portable\app'
+2024-01-10 21:39:35.479 - Instance path: 'file:/C:/portapps/dbeaver-portable/data/'
+2024-01-10 21:39:35.479 - Memory available 164Mb/1024Mb
+2024-01-10 21:39:35.500 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.21.100.v20230825-1346]
+2024-01-10 21:39:35.690 - Initializing DBeaver 23.3.0
+2024-01-10 21:39:35.695 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.3.0.202312122044
+2024-01-10 21:39:35.695 - Initialize desktop platform...
+2024-01-10 21:39:35.699 - Language for locale 'pt_BR' not found. Use default.
+2024-01-10 21:39:35.859 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.100.v20230717-1727]
+> Start Core Resource Management [org.eclipse.core.resources 3.19.100.v20230814-1312]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.100.v20230726-0617]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.120.202312122044]
+2024-01-10 21:39:36.062 - 
+2024-01-10 21:39:36.063 - 	Refreshing workspace.
+2024-01-10 21:39:36.064 - Refreshing workspace contents
+2024-01-10 21:39:36.173 - Initialize base platform...
+2024-01-10 21:39:36.197 - Platform initialized (502ms)
+2024-01-10 21:39:36.259 - Starting instance server at http://localhost:49693
+2024-01-10 21:39:36.269 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.135.202312122044]
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.100.v20230727-0604]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.100.v20230708-0809]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.100.v20230630-1554]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.100.v20230727-0604]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.100.v20230630-1554]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.100.v20230630-1554]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.35.0.v20230801-1141]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.100.v20230727-0604]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.100.v20230727-0604]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.100.v20230801-1255]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.0.v20230429-1914]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.100.v20230727-0604]
+> Start jna [com.sun.jna 5.13.0.v20230812-1000]
+Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.eclipse.ui.internal.progress.messages
+> Start Eclipse SDK Themes [org.eclipse.ui.themes 1.2.2300.v20230807-1354]
+2024-01-10 21:39:37.825 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.110.202312122044]
+2024-01-10 21:39:37.994 - Total database drivers: 108 (108)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.100.v20230726-0617]
+2024-01-10 21:39:38.116 - Create actions
+2024-01-10 21:39:38.127 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-01-10 21:39:38.128 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-01-10 21:39:38.128 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+Warning: NLS unused message: dialog_connection_edit_wizard_data_format in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_data_format_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_editors in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_editors_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_presentation in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_presentation_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_resultset in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_resultset_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_code_completion in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_code_completion_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_editor in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_editor_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_formatting in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_formatting_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_processing in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_processing_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: notification_org_jkiss_dbeaver_ui_actions_common_uuid_copy in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: notification_org_jkiss_dbeaver_ui_actions_common_uuid_copy_text in: org.jkiss.dbeaver.core.CoreResources
+2024-01-10 21:39:39.553 - Initialize workbench window
+2024-01-10 21:39:39.557 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.120.202312122044]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.100.v20230726-0617]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.100.v20230630-1232]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.120.202312122044]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.0.202308311129]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.15.0.202308311129]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.80.202312122044]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.80.202312122044]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.17.0.v20230821-1342]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.17.100.v20230821-0745]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.157.202312122044]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.126.202312122044]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.111.202312122044]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.96.202312122044]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.13.202312122044]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.193.202312122044]
+2024-01-10 21:40:10.868 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-01-10 21:40:36.807 - Connect with 'jdbc:postgresql://localhost:5433/postgres' (postgres-jdbc-18cf5f6ba9a-1251610b02e16cf0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.144.202312122044]
+2024-01-10 21:40:36.858 - Execution context opened (jdbc:postgresql://localhost:5433/postgres; Main <postgres>; 0)
+2024-01-10 21:40:36.858 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-01-10 21:40:37.060 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.5.2/postgresql-42.5.2.pom]
+2024-01-10 21:40:37.856 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.pom]
+2024-01-10 21:40:37.954 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.pom]
+2024-01-10 21:40:38.070 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-parent/1.9.1/waffle-parent-1.9.1.pom]
+2024-01-10 21:40:38.307 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom]
+2024-01-10 21:40:38.411 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.pom]
+2024-01-10 21:40:38.515 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom]
+2024-01-10 21:40:38.614 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom]
+2024-01-10 21:40:38.721 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom]
+2024-01-10 21:40:38.836 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.pom]
+2024-01-10 21:40:41.829 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.5.2/postgresql-42.5.2.jar]
+2024-01-10 21:40:42.848 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar]
+2024-01-10 21:40:43.089 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.pom]
+2024-01-10 21:40:43.190 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.5.0/postgis-java-aggregator-2.5.0.pom]
+2024-01-10 21:40:43.303 - Open [https://repo1.maven.org/maven2/org/testcontainers/testcontainers-bom/1.13.0/testcontainers-bom-1.13.0.pom]
+2024-01-10 21:40:43.407 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.jar]
+2024-01-10 21:40:43.529 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.pom]
+2024-01-10 21:40:43.628 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.jar]
+2024-01-10 21:40:43.748 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.jar]
+2024-01-10 21:40:43.884 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar]
+2024-01-10 21:40:44.947 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar]
+2024-01-10 21:40:48.315 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar]
+2024-01-10 21:40:48.434 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar]
+2024-01-10 21:40:48.591 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar]
+2024-01-10 21:40:49.714 - Open [https://raw.githubusercontent.com/pgjdbc/pgjdbc/master/LICENSE]
+2024-01-10 21:40:50.358 - Connected (postgres-jdbc-18cf5f6ba9a-1251610b02e16cf0, PostgreSQL JDBC Driver [42.5.2])
+2024-01-10 21:40:50.413 - Execution context closed (jdbc:postgresql://localhost:5433/postgres, 0)
+2024-01-10 21:40:50.413 - Disconnected (postgres-jdbc-18cf5f6ba9a-1251610b02e16cf0)
+2024-01-10 21:40:59.113 - Connect with 'postgres' (postgres-jdbc-18cf5f654b6-37a3f900aeee3ab8)
+2024-01-10 21:40:59.113 - Execution context opened (postgres; Main <postgres>; 1)
+2024-01-10 21:40:59.113 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-01-10 21:40:59.153 - Execution context opened (postgres; Metadata <postgres>; 2)
+2024-01-10 21:40:59.153 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2024-01-10 21:40:59.211 - Connected (postgres-jdbc-18cf5f654b6-37a3f900aeee3ab8, PostgreSQL JDBC Driver [42.5.2])
+2024-01-10 21:41:17.015 - DBeaver is stopping
+2024-01-10 21:41:17.015 - Stop instance server
+2024-01-10 21:41:18.016 - DBeaver shutdown completed
+2024-01-10 21:41:18.022 - Instance server has been stopped
+2024-01-10 21:41:18.038 - Shutdown desktop platform...
+2024-01-10 21:41:18.091 - Execution context closed (postgres, 1)
+2024-01-10 21:41:18.142 - Execution context closed (postgres, 2)
+2024-01-10 21:41:18.142 - Disconnected (postgres-jdbc-18cf5f654b6-37a3f900aeee3ab8)
+2024-01-10 21:41:18.237 - Platform shutdown completed (199ms)
+Wed, 10 Jan 2024 21:41:18 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:212 > Closing DBeaver
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:118 > --------
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:119 > Operating System: Windows 10.0.22621
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:120 > Starting DBeaver 23.3.0-47 (portapps 3.9.0)...
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:121 > Release date: 2023/12/24 15:32:40
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/dbeaver-portable)
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:123 > Root path: C:\portapps\dbeaver-portable
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+
+Wed, 10 Jan 2024 21:42:48 -03 INF D:/a/dbeaver-portable/dbeaver-portable/main.go:56 > Loading org.jkiss.dbeaver.core.prefs file...
+Wed, 10 Jan 2024 21:42:48 -03 INF D:/a/dbeaver-portable/dbeaver-portable/main.go:62 > Writing to org.jkiss.dbeaver.core.prefs
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:168 > Process: C:\portapps\dbeaver-portable\app\dbeaver.exe
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:169 > Args (config file): 
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:170 > Args (cmd line): 
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:171 > Args (hardcoded): -data C:\portapps\dbeaver-portable\data -vm C:\portapps\dbeaver-portable\app\jre\bin\javaw.exe
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:172 > Working dir: C:\portapps\dbeaver-portable\app
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:173 > App path: C:\portapps\dbeaver-portable\app
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:174 > Data path: C:\portapps\dbeaver-portable\data
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:175 > Previous path: C:\portapps\dbeaver-portable
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:181 > Launching DBeaver
+Wed, 10 Jan 2024 21:42:48 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:191 > Exec C:\portapps\dbeaver-portable\app\dbeaver.exe -data C:\portapps\dbeaver-portable\data -vm C:\portapps\dbeaver-portable\app\jre\bin\javaw.exe
+Warning: NLS unused message: WorkbenchPreference_showMultipleEditorTabsButton in: org.eclipse.ui.internal.messages
+Warning: NLS unused message: Workbench_zoomChangedRestart in: org.eclipse.ui.internal.messages
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.0.v20230630-1303]
+> Start DBeaver Application Standalone [org.jkiss.dbeaver.ui.app.standalone 23.3.0.202312122044]
+> Start Aplicativo IDE Eclipse [org.eclipse.ui.ide.application 1.5.100.v20230821-1342]
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.120.202312122044]
+> Start Expression Language [org.eclipse.core.expressions 3.9.100.v20230726-0617]
+> Start DBeaver Usage Statistics [org.jkiss.dbeaver.ui.statistics 1.0.16.202312122044]
+> Start DBeaver Desktop Application Core [org.jkiss.dbeaver.core 23.3.0.202312122044]
+2024-01-10 21:42:49.870 - DBeaver 23.3.0.202312122044 is starting
+2024-01-10 21:42:49.870 - OS: Windows 11 10.0 (amd64)
+2024-01-10 21:42:49.870 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-01-10 21:42:49.870 - Install path: 'C:\portapps\dbeaver-portable\app'
+2024-01-10 21:42:49.870 - Instance path: 'file:/C:/portapps/dbeaver-portable/data/'
+2024-01-10 21:42:49.870 - Memory available 64Mb/1024Mb
+2024-01-10 21:42:49.895 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.21.100.v20230825-1346]
+2024-01-10 21:42:50.030 - Initializing DBeaver 23.3.0
+2024-01-10 21:42:50.030 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.3.0.202312122044
+2024-01-10 21:42:50.030 - Initialize desktop platform...
+2024-01-10 21:42:50.030 - Language for locale 'pt_BR' not found. Use default.
+2024-01-10 21:42:50.183 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.100.v20230717-1727]
+> Start Core Resource Management [org.eclipse.core.resources 3.19.100.v20230814-1312]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.100.v20230726-0617]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.120.202312122044]
+2024-01-10 21:42:50.468 - Initialize base platform...
+2024-01-10 21:42:50.489 - Platform initialized (459ms)
+2024-01-10 21:42:50.540 - Starting instance server at http://localhost:49741
+2024-01-10 21:42:50.547 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.135.202312122044]
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.100.v20230727-0604]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.100.v20230708-0809]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.100.v20230630-1554]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.100.v20230727-0604]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.100.v20230630-1554]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.100.v20230630-1554]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.35.0.v20230801-1141]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.100.v20230727-0604]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.100.v20230727-0604]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.100.v20230801-1255]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.0.v20230429-1914]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.100.v20230727-0604]
+> Start jna [com.sun.jna 5.13.0.v20230812-1000]
+Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.eclipse.ui.internal.progress.messages
+2024-01-10 21:42:52.206 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.110.202312122044]
+2024-01-10 21:42:52.366 - Total database drivers: 108 (108)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.100.v20230726-0617]
+2024-01-10 21:42:52.445 - Create actions
+2024-01-10 21:42:52.451 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-01-10 21:42:52.451 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-01-10 21:42:52.451 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+Warning: NLS unused message: dialog_connection_edit_wizard_data_format in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_data_format_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_editors in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_editors_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_presentation in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_presentation_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_resultset in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_resultset_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_code_completion in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_code_completion_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_editor in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_editor_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_formatting in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_formatting_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_processing in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_processing_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: notification_org_jkiss_dbeaver_ui_actions_common_uuid_copy in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: notification_org_jkiss_dbeaver_ui_actions_common_uuid_copy_text in: org.jkiss.dbeaver.core.CoreResources
+2024-01-10 21:42:52.929 - Initialize workbench window
+2024-01-10 21:42:52.937 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.120.202312122044]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.100.v20230726-0617]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.100.v20230630-1232]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.120.202312122044]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.157.202312122044]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.126.202312122044]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.0.202308311129]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.15.0.202308311129]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.80.202312122044]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.80.202312122044]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.17.0.v20230821-1342]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.17.100.v20230821-0745]
+2024-01-10 21:43:05.875 - DBeaver is stopping
+2024-01-10 21:43:05.877 - Stop instance server
+2024-01-10 21:43:06.877 - DBeaver shutdown completed
+2024-01-10 21:43:06.880 - Instance server has been stopped
+2024-01-10 21:43:06.906 - Shutdown desktop platform...
+2024-01-10 21:43:06.936 - Platform shutdown completed (30ms)
+Wed, 10 Jan 2024 21:43:07 -03 INF ..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:212 > Closing DBeaver
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:118 > --------
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:119 > Operating System: Windows 10.0.22621
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:120 > Starting DBeaver 23.3.0-47 (portapps 3.9.0)...
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:121 > Release date: 2023/12/24 15:32:40
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/dbeaver-portable)
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:123 > Root path: C:\docker\workshoppdi\dbeaver-portable
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+
+Wed, 10 Jan 2024 21:44:33 -03 INF D:/a/dbeaver-portable/dbeaver-portable/main.go:56 > Loading org.jkiss.dbeaver.core.prefs file...
+Wed, 10 Jan 2024 21:44:33 -03 INF D:/a/dbeaver-portable/dbeaver-portable/main.go:62 > Writing to org.jkiss.dbeaver.core.prefs
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:168 > Process: C:\docker\workshoppdi\dbeaver-portable\app\dbeaver.exe
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:169 > Args (config file): 
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:170 > Args (cmd line): 
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:171 > Args (hardcoded): -data C:\docker\workshoppdi\dbeaver-portable\data -vm C:\docker\workshoppdi\dbeaver-portable\app\jre\bin\javaw.exe
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:172 > Working dir: C:\docker\workshoppdi\dbeaver-portable\app
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:173 > App path: C:\docker\workshoppdi\dbeaver-portable\app
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:174 > Data path: C:\docker\workshoppdi\dbeaver-portable\data
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:175 > Previous path: C:\portapps\dbeaver-portable
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:181 > Launching DBeaver
+Wed, 10 Jan 2024 21:44:33 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:191 > Exec C:\docker\workshoppdi\dbeaver-portable\app\dbeaver.exe -data C:\docker\workshoppdi\dbeaver-portable\data -vm C:\docker\workshoppdi\dbeaver-portable\app\jre\bin\javaw.exe
+Warning: NLS unused message: WorkbenchPreference_showMultipleEditorTabsButton in: org.eclipse.ui.internal.messages
+Warning: NLS unused message: Workbench_zoomChangedRestart in: org.eclipse.ui.internal.messages
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.0.v20230630-1303]
+> Start DBeaver Application Standalone [org.jkiss.dbeaver.ui.app.standalone 23.3.0.202312122044]
+> Start Aplicativo IDE Eclipse [org.eclipse.ui.ide.application 1.5.100.v20230821-1342]
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.120.202312122044]
+> Start Expression Language [org.eclipse.core.expressions 3.9.100.v20230726-0617]
+> Start DBeaver Usage Statistics [org.jkiss.dbeaver.ui.statistics 1.0.16.202312122044]
+> Start DBeaver Desktop Application Core [org.jkiss.dbeaver.core 23.3.0.202312122044]
+2024-01-10 21:44:40.066 - DBeaver 23.3.0.202312122044 is starting
+2024-01-10 21:44:40.067 - OS: Windows 11 10.0 (amd64)
+2024-01-10 21:44:40.067 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-01-10 21:44:40.067 - Install path: 'C:\docker\workshoppdi\dbeaver-portable\app'
+2024-01-10 21:44:40.067 - Instance path: 'file:/C:/docker/workshoppdi/dbeaver-portable/data/'
+2024-01-10 21:44:40.068 - Memory available 64Mb/1024Mb
+2024-01-10 21:44:40.081 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.21.100.v20230825-1346]
+2024-01-10 21:44:40.348 - Initializing DBeaver 23.3.0
+2024-01-10 21:44:40.348 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.3.0.202312122044
+2024-01-10 21:44:40.348 - Initialize desktop platform...
+2024-01-10 21:44:40.348 - Language for locale 'pt_BR' not found. Use default.
+2024-01-10 21:44:40.568 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.100.v20230717-1727]
+> Start Core Resource Management [org.eclipse.core.resources 3.19.100.v20230814-1312]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.100.v20230726-0617]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.120.202312122044]
+2024-01-10 21:44:41.011 - Initialize base platform...
+2024-01-10 21:44:41.036 - Platform initialized (688ms)
+2024-01-10 21:44:41.086 - Starting instance server at http://localhost:49755
+2024-01-10 21:44:41.143 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.135.202312122044]
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.100.v20230727-0604]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.100.v20230708-0809]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.100.v20230630-1554]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.100.v20230727-0604]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.100.v20230630-1554]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.100.v20230630-1554]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.35.0.v20230801-1141]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.100.v20230727-0604]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.100.v20230727-0604]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.100.v20230801-1255]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.0.v20230429-1914]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.100.v20230727-0604]
+> Start jna [com.sun.jna 5.13.0.v20230812-1000]
+Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.eclipse.ui.internal.progress.messages
+2024-01-10 21:44:54.443 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.110.202312122044]
+2024-01-10 21:44:54.751 - Total database drivers: 108 (108)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.100.v20230726-0617]
+2024-01-10 21:44:55.327 - Create actions
+2024-01-10 21:44:55.333 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-01-10 21:44:55.334 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-01-10 21:44:55.334 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+Warning: NLS unused message: dialog_connection_edit_wizard_data_format in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_data_format_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_editors in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_editors_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_presentation in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_presentation_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_resultset in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_resultset_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_code_completion in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_code_completion_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_editor in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_editor_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_formatting in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_formatting_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_processing in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: dialog_connection_edit_wizard_sql_processing_description in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: notification_org_jkiss_dbeaver_ui_actions_common_uuid_copy in: org.jkiss.dbeaver.core.CoreResources
+Warning: NLS unused message: notification_org_jkiss_dbeaver_ui_actions_common_uuid_copy_text in: org.jkiss.dbeaver.core.CoreResources
+2024-01-10 21:44:55.937 - Initialize workbench window
+2024-01-10 21:44:55.944 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.120.202312122044]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.100.v20230726-0617]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.100.v20230630-1232]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.120.202312122044]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.157.202312122044]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.126.202312122044]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.14.0.202308311129]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.15.0.202308311129]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.80.202312122044]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.80.202312122044]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.17.0.v20230821-1342]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.17.100.v20230821-0745]
+2024-01-10 21:45:14.422 - DBeaver is stopping
+2024-01-10 21:45:14.429 - Stop instance server
+2024-01-10 21:45:15.423 - DBeaver shutdown completed
+2024-01-10 21:45:15.451 - Shutdown desktop platform...
+2024-01-10 21:45:15.452 - Instance server has been stopped
+2024-01-10 21:45:15.487 - Platform shutdown completed (36ms)
+Wed, 10 Jan 2024 21:45:15 -03 INF ..\..\..\Users\runneradmin\go\pkg\mod\github.com\portapps\portapps\v3@v3.9.0\portapps.go:212 > Closing DBeaver
