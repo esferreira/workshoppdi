@@ -1,0 +1,52 @@
+DEBUG: Found JRE at the current folder
+DEBUG: _PENTAHO_JAVA_HOME=C:\docker\data-integration\jre
+DEBUG: _PENTAHO_JAVA=C:\docker\data-integration\jre\bin\java.exe
+
+C:\docker\data-integration>"C:\docker\data-integration\jre\bin\java.exe"   "-Xms1024m" "-Xmx2048m" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\docker\data-integration\jre\jre\lib\endorsed;C:\docker\data-integration\jre\lib\endorsed;C:\docker\data-integration\system\karaf\lib\endorsed"  "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\docker\workshoppdi\arquivos_batch"\ /rep:"REP_DEV" /user:admin /pass:admin /dir:/WORKSHOP /job:"00_JOB_CLIENTES" /level:Basic 
+04:31:29,818 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+04:31:35,990 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 2 at C:\docker\data-integration\.\system\karaf\c ***
+***   aches\kitchen\data-1                                                  ***
+*** Karaf Port:8803                                                         ***
+*** OSGI Service Port:9052                                                  ***
+*******************************************************************************
+2024/01/11 04:31:36 - Kitchen - Logging is at level : Log básico
+2024/01/11 04:31:36 - Kitchen - Start of run.
+2024/01/11 04:31:36 - RepositoriesMeta - Reading repositories XML file: C:\Users\ecios\.kettle\repositories.xml
+04:31:51,010 INFO  [DriverManager] Installing driver kars.
+04:31:51,013 INFO  [DriverManager] 0 drivers will be installed.
+04:31:51,013 INFO  [DriverManager] Finished installing drivers kars.
+2024/01/11 04:31:51 - 00_JOB_CLIENTES - Início da execução do job
+2024/01/11 04:31:51 - 00_JOB_CLIENTES - Starting entry [00_COLETAR_DADOS]
+2024/01/11 04:31:52 - 00_COLETAR_DADOS - Using run configuration [Pentaho local]
+2024/01/11 04:31:52 - 00_COLETAR_DADOS - Running transformation using the Kettle execution engine
+2024/01/11 04:31:52 - 00_COLETAR_DADOS - Expedindo in?cio para transforma??o [00_COLETAR_DADOS]
+2024/01/11 04:31:52 - Table output.0 - Connected to database [[localhost-desenvolvimento]] (commit=1000)
+2024/01/11 04:31:53 - enderecos.0 - Finished processing (I=200, O=0, R=0, W=200, U=0, E=0)
+2024/01/11 04:31:53 - clientes.0 - Finished processing (I=200, O=0, R=0, W=200, U=0, E=0)
+2024/01/11 04:31:53 - Get system info.0 - Finished processing (I=0, O=0, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:53 - Calculator.0 - Finished processing (I=0, O=0, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:53 - Modified JavaScript value.0 - Optimization level set to 9.
+2024/01/11 04:31:53 - Modified JavaScript value.0 - Finished processing (I=0, O=0, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:54 - Split fields.0 - Finished processing (I=0, O=0, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:54 - Stream lookup.0 - Finished processing (I=0, O=0, R=400, W=200, U=0, E=0)
+2024/01/11 04:31:54 - Select values.0 - Finished processing (I=0, O=0, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:54 - Table output.0 - Finished processing (I=0, O=200, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:54 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2024/01/11 04:31:54 - 00_JOB_CLIENTES - Starting entry [01_FAIXA_ETARIA]
+2024/01/11 04:31:55 - 01_FAIXA_ETARIA - Using run configuration [Pentaho local]
+2024/01/11 04:31:55 - 01_FAIXA_ETARIA - Running transformation using the Kettle execution engine
+2024/01/11 04:31:55 - 01_FAIXA_ETARIA - Expedindo in?cio para transforma??o [01_FAIXA_ETARIA]
+2024/01/11 04:31:55 - Table input.0 - Finished reading query, closing connection
+2024/01/11 04:31:55 - Table input.0 - Finished processing (I=200, O=0, R=0, W=200, U=0, E=0)
+2024/01/11 04:31:55 - Select values.0 - Finished processing (I=0, O=0, R=200, W=200, U=0, E=0)
+2024/01/11 04:31:56 - Update.0 - Finished processing (I=200, O=0, R=200, W=200, U=200, E=0)
+2024/01/11 04:31:56 - 00_JOB_CLIENTES - Starting entry [Success]
+2024/01/11 04:31:56 - 00_JOB_CLIENTES - Finished job entry [Success] (result=[true])
+2024/01/11 04:31:56 - 00_JOB_CLIENTES - Finished job entry [01_FAIXA_ETARIA] (result=[true])
+2024/01/11 04:31:56 - 00_JOB_CLIENTES - Finished job entry [00_COLETAR_DADOS] (result=[true])
+2024/01/11 04:31:56 - 00_JOB_CLIENTES - Job execution finished
+2024/01/11 04:31:56 - Kitchen - Finished!
+2024/01/11 04:31:56 - Kitchen - Start=2024/01/11 04:31:51.968, Stop=2024/01/11 04:31:56.026
+2024/01/11 04:31:56 - Kitchen - Processing ended after 4 seconds.

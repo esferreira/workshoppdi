@@ -1,0 +1,1 @@
+C:/docker/data-integration/Kitchen.bat /rep:"REP_DEV" /user:admin /pass:admin /dir:/WORKSHOP /job:"00_JOB_CLIENTES" /level:Basic >> C:/docker/workshoppdi/arquivos/jobs/logs/00_JOB_CLIENTES.txt
