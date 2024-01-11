@@ -1,0 +1,1 @@
+C:/docker/data-integration/Kitchen.bat /rep:"REPOSITORIO_NOME" /user:admin /pass:admin /dir:/DIRETORIO /job:"exemplo_job_database" /level:Basic >> C:/docker/workshoppdi/arquivos/jobs/logs/exemplo_job_database.txt

@@ -1,0 +1,1 @@
+C:/docker/data-integration/Pan.bat /rep:"REPOSITORIO_NOME" /user:admin /pass:admin /dir:/DIRETORIO /job:"exemplo_trans_database" /level:Basic >> C:/docker/workshoppdi/arquivos/jobs/logs/exemplo_trans_database.txt
